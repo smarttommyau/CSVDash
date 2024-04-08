@@ -44,7 +44,7 @@ This Streamlit app is designed to help you analyze and visualize data from CSV f
 3. Run the Streamlit app.
 
    ```bash
-   streamlit run app.py
+   streamlit run main.py
    ```
 
 4. Access the app in your web browser.
